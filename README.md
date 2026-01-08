@@ -18,7 +18,7 @@ NumPy, Pandas, scikit-learn, Matplotlib, Seaborn
 ```
 
 ### To clone the dataset
-git clone https://github.com/HPunya/Mnist_digit_classifier
+git clone https://github.com/HPunya/Mnist_digit_classifier.git
 
 ### Dataset
 Unarchive the mnist_train folder and update the path accordingly as the mnist_train.csv file was too large to update on this repo.
